@@ -81,4 +81,8 @@ Two thirds of CS50 students have never taken CS before. Among the overarching go
 - [ ] Problem Set 9
      - [ ] Finance *
 ### Unicode & Emojis
+<<<<<<< HEAD
 - [ ] Final Project *
+=======
+- [ ] Final Project *
+>>>>>>> 0db554847abf38c124f0f030d0c4fe382797b505
