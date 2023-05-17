@@ -21,7 +21,7 @@ Two thirds of CS50 students have never taken CS before. Among the overarching go
      - [x] Cash
      - [x] Credit
 ### Arrays
-- [ ] Lab 2
+- [x] Lab 2
      - [x] Scrabble *
 - [ ] Problem Set 2
      - [x] Readability *
