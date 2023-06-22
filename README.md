@@ -27,7 +27,7 @@ Two thirds of CS50 students have never taken CS before. Among the overarching go
      - [x] Readability *
      - *At least one of the following:*
      - [ ] Bulbs
-     - [ ] Caesar
+     - [x] Caesar
      - [ ] Substitution
      - [ ] Wordle50
 ### Algorithms
